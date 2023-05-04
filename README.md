@@ -1,6 +1,5 @@
-# Proje10-LDMedikal
+
 # Project10-LDMedikal
-# Project9-GithubProfil
 
 ##Responsive site oluşturuldu....
 
@@ -14,7 +13,7 @@
 
 #### link: https://github-johsan32.netlify.app/
 
-![print-screen](screen.png)
+![print-screen](secreen.png)
 
 
 ![gif](video.gif)
