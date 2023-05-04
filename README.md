@@ -11,7 +11,7 @@
 
 #### Responsive özelliktedir.
 
-#### link: https://github-johsan32.netlify.app/
+#### link: https://ldmedikal.netlify.app/
 
 ![print-screen](secreen.png)
 
